@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IUYDWIPW
 
 [Document3]
 DocumentPath=AS5047D_Breakout.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AMFYWMHH
 
 [Document4]
 DocumentPath=Components.SchLib
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CDXMBDDE
 
 [Document5]
 DocumentPath=Footprints.PcbLib
@@ -120,7 +120,71 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GQCAOYTV
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AS5047D_Breakout\NC Drill\AS5047D_Breakout.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for AS5047D_Breakout\NC Drill\AS5047D_Breakout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for AS5047D_Breakout\Gerber\AS5047D_Breakout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for AS5047D_Breakout\NC Drill\AS5047D_Breakout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for AS5047D_Breakout\Design Rule Check - AS5047D_Breakout.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -131,6 +195,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
